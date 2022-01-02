@@ -1,1 +1,3 @@
 PIERWSZY PLIK UTWORZONY ZA POMOCĄ GIT BASH xD
+
+Put some changes into it
